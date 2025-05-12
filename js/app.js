@@ -26,3 +26,6 @@ for (let i = 0; i < 100; i++) {
 // - stampiamo la parola "Fizz"
 // ALTRIMENTI:
 // - stampiamo la cifra 
+
+
+//RICORDIAMO CHE NELL'IF CI VA SEMPRE UNA CONDIZIONE BOOLEANA -- QUINDI DI VERO O FALSO
