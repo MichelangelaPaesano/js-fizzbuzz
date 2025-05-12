@@ -19,7 +19,6 @@ for (let i = 0; i < 100; i++) {
 
 }
 
-
 // IF multipli di 5
 // - stampiamo la parola "Buzz"
 // IF multipli di 3
